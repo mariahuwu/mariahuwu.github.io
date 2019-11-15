@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+background: url("https://i.imgur.com/2d2au0F.jpg");
+background-size: fixed;
+background-repeat: no-repeat;
+font-family: "Helvetica";
+}
+h1{
+	font-family: Cocogoose, regular;
+	color: #EF6461;
+}
+
+#slogan {
+	font-style: italic;
+	color: black;
+}
+
+#mission{
+	padding-top: 1000px;
+	font-family: Cocogoose;
+	padding-left: 200px;
+	padding-right: 200px;
+	
+	
+}
+#list
+{
+	text-align: left;
+	list-style-type: none;
+	font-family: Helvetica;
+	font-size: 16px;
+	font-style: normal;
+	padding-left: 400px;
+	padding-right: 300px;
+}
