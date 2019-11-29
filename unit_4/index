@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<title> The Juice Bar </title>
+<body>
+	
+<h1>The Juice Bar</h1>
+<h2 id="slogan"> Everything looks better with juice</h2>
+<br>
+<br>
+<br>
+
+<p id="mission"> We are on a mission to bring fresh pressed juice for everyone. We promise our customers to raise the standard of organic and healthy juice.</p>
+<br>
+<br>
+<br>
+	<p><img src="https://i.imgur.com/Pp836Hg.jpg" alt="Juice bottles" title="yay juice!"></p>
+	<br>
+	<br>
+	
+<h2>Our state-wide business offers:</p>
+<ul id="list">
+	<li>Delivery via online order</li>
+	<li>Multiple locations in California</li>
+	<li>Membership program</li>
+	<li>Deals and offers</li>
+	<br>
+	<br>
+<p> Contact me: <a href="mailto:carmenhuwu@gmail.com">carmenhuwu@gmail.com</a></p>
+</ul>
+
+</body>
+
+</html>
